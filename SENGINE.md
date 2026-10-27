@@ -11,7 +11,7 @@ line leaves `sengine-rules-list.json`.
 
 | Rule | Upstream |
 | --- | --- |
-| `rules/frisco.pl.json` | pending |
+| `rules/frisco.pl.json` | https://github.com/cavi-au/Consent-O-Matic/pull/609 |
 
 Consent-O-Matic caches a rule list for 22 to 48 hours, so a change here reaches
 browsers within two days.
